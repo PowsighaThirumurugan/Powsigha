@@ -1,4 +1,4 @@
-package com.tnsif.interfacedemo;
+package com.tnsif.interfaceconcept;
 
 public class FunctionalDemo {
 
